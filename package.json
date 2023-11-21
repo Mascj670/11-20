@@ -1,0 +1,22 @@
+{
+  "name": "11-21",
+  "version": "1.0.0",
+  "description": "11-22 HW",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mascj670/11-20.git"
+  },
+  "author": "JLM",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mascj670/11-20/issues"
+  },
+  "homepage": "https://github.com/Mascj670/11-20#readme",
+  "dependencies": {
+    "faker": "^5.5.3"
+  }
+}
